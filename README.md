@@ -18,6 +18,7 @@ Adapt5, Rstudio, NONMEM, Pirana, Phoenix Winnonlin, PK-SIM. Basic Python, Magnol
 
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xinnong98.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinnong-li-885a981a5/)
 
 
