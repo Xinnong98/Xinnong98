@@ -3,18 +3,17 @@
 
 
 ## 🚀 About Me
-I'm a master student majored in Pharmacometrics. Now I'm doing the Cabotegravir population PK project.
-
+PhD Candidate majored in Pharmacometrics
 
 ## 🛠 Skills
-Adapt5, Rstudio, NONMEM, Pirana, Phoenix Winnonlin, PK-SIM. Basic Python, Magnolia, Simcyp.
+R, Python, NONMEM, Phoenix, PK-SIM, Magnolia, Simcyp.
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently studying in University at Buffalo
+👩‍💻 I'm currently studying at University at Buffalo
 
-🧠 I'm currently learning PK/PD modeling, Machine Learning.
+🧠 I'm currently doing population PK model, machine learning and PBPK model
 
-📫 How to reach me xinnongli1225@gmail.com
+📫 How to reach me xli267@buffalo.edu
 
 
 ## 🔗 Links
